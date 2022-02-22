@@ -1,0 +1,30 @@
+#contenedor{
+    display: flex;
+    justify-content: space-around;
+    background-color: blue;
+    height: 500px;
+    border: black;
+    width: 95%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: column wrap;
+    
+}
+
+#verde{
+    width: 20%;
+    height: 100px;
+    background-color: green;
+    text-align: center;
+    border:solid black
+    
+    
+}
+
+#amarillo{
+    width: 20%;
+    height: 100px;
+    background-color: yellow;
+    text-align: center;
+    border: solid black;
+}
